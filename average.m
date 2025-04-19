@@ -6,7 +6,7 @@ imshow(f)
 [M,N] = size(f);
 f = double(f);
 
-% Calculate the aerage value
+% Calculate the average value
 avg = mean(f(:));
 
 % Display the result
