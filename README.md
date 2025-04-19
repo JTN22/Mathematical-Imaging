@@ -37,10 +37,3 @@ This repository contains a collection of scripts and functions developed for a *
 - `he.py`, `geometric.m` — Manual implementations of basic enhancement
 
 ---
-
-## 🧭 How to Run
-
-- **MATLAB files**: Open `.m` files in MATLAB and run them directly.
-- **Python files**: 
-  ```bash
-  python filename.py
